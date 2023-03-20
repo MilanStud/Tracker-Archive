@@ -62,7 +62,7 @@
             <a href="https://github.com/MilanStud/Tracker-Archive" class="nav-link" target="_blank">                                               
                 <i class="fa-brands fa-github"></i> GIT - code in repositories</a>
                 <hr>
-                <i class="fa-solid fa-boxes-packing"></i> Tracker Archive
+                <i class="fa-solid fa-boxes-packing"></i> Tracker Archive 1.1
                 <br>
                 &copy; 2023 Milan Študent
             </div>
